@@ -1,0 +1,19 @@
+# Minecraft modpack specific ignores
+/mods/
+/resourcepacks/
+/downloads/
+/saves/
+/logs/
+/crash-reports/
+/local/
+/options.txt
+/usercache.json
+/realm_persistence.json
+/.curseclient
+
+# Add the following to your gitignore:
+# Instance Sync
+**/*.jar
+!InstanceSync*.jar
+**/*.jar.disabled
+**/*.jar.meta
