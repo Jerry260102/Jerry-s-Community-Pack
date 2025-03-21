@@ -1,10 +1,263 @@
 {
+  "anvianslib-neoforge-1.21-1.1.jar": {
+    "modId": "anvianslib",
+    "version": "1.1"
+  },
+  "appleskin-neoforge-mc1.21-3.0.5.jar": {
+    "modId": "appleskin",
+    "version": "3.0.5+mc1.21"
+  },
+  "architectury-13.0.8-neoforge.jar": {
+    "modId": "architectury",
+    "version": "13.0.8"
+  },
+  "balm-neoforge-1.21.1-21.0.33.jar": {
+    "modId": "balm",
+    "version": "21.0.33"
+  },
   "bcc-21.1.3+mc1.21.1.jar": {
     "modId": "bcc",
     "version": "21.1.3"
   },
+  "better_modlist-1.1.16.jar": {
+    "modId": "mod_menu",
+    "version": "1.1.16"
+  },
+  "CerbonsAPI-NeoForge-1.21-1.2.0.jar": {
+    "modId": "cerbons_api",
+    "version": "1.2.0"
+  },
+  "configured-neoforge-1.21.1-2.6.0.jar": {
+    "modId": "configured",
+    "version": "2.6.0"
+  },
   "crash_assistant-neoforge-1.4.3.jar": {
     "modId": "crash_assistant",
     "version": "1.4.3"
+  },
+  "curios-neoforge-9.3.1+1.21.1.jar": {
+    "modId": "curios",
+    "version": "9.3.1+1.21.1"
+  },
+  "darkmodeeverywhere-1.21-1.3.4.jar": {
+    "modId": "darkmodeeverywhere",
+    "version": "1.21-1.3.4"
+  },
+  "distraction_free_recipes-neoforge-1.2.1-1.21.1.jar": {
+    "modId": "distraction_free_recipes",
+    "version": "1.2.1"
+  },
+  "drippyloadingscreen_neoforge_3.0.11_MC_1.21.1.jar": {
+    "modId": "drippyloadingscreen",
+    "version": "3.0.11"
+  },
+  "emi-1.1.20+1.21.1+neoforge.jar": {
+    "modId": "emi",
+    "version": "1.1.20+1.21.1+neoforge"
+  },
+  "emi_enchanting-0.1.2+1.21+neoforge.jar": {
+    "modId": "emi_enchanting",
+    "version": "0.1.2+1.21+neoforge"
+  },
+  "emi_loot-0.7.5+1.21+neoforge.jar": {
+    "modId": "emi_loot",
+    "version": "0.7.5+1.21+neoforge"
+  },
+  "emi_ores-1.2+1.21.1+neoforge.jar": {
+    "modId": "emi_ores",
+    "version": "1.2+1.21.1+neoforge"
+  },
+  "EMIProfessions-neoforge-1.21.1-1.0.3.jar": {
+    "modId": "emiprofessions",
+    "version": "1.0.3"
+  },
+  "fancymenu_neoforge_3.4.6_MC_1.21.1.jar": {
+    "modId": "fancymenu",
+    "version": "3.4.6"
+  },
+  "ftb-chunks-modded-1.20+1.1.8.jar": {
+    "modId": "ftbchunks_modded",
+    "version": "1.1.8"
+  },
+  "ftb-chunks-neoforge-2101.1.8.jar": {
+    "modId": "ftbchunks",
+    "version": "2101.1.8"
+  },
+  "ftb-library-neoforge-2101.1.12.jar": {
+    "modId": "ftblibrary",
+    "version": "2101.1.12"
+  },
+  "ftb-quests-neoforge-2101.1.6.jar": {
+    "modId": "ftbquests",
+    "version": "2101.1.6"
+  },
+  "ftb-teams-neoforge-2101.1.2.jar": {
+    "modId": "ftbteams",
+    "version": "2101.1.2"
+  },
+  "ftb-ultimine-neoforge-2101.1.1.jar": {
+    "modId": "ftbultimine",
+    "version": "2101.1.1"
+  },
+  "ftb-xmod-compat-neoforge-21.1.3.jar": {
+    "modId": "ftbxmodcompat",
+    "version": "21.1.3"
+  },
+  "fzzy_config-0.6.6+1.21+neoforge.jar": {
+    "modId": "fzzy_config",
+    "version": "0.6.6+1.21+neoforge"
+  },
+  "iris-neoforge-1.8.8+mc1.21.1.jar": {
+    "modId": "iris",
+    "version": "1.8.8+mc1.21.1"
+  },
+  "irisblockcompat-1.21.1-1.0.0.jar": {
+    "modId": "irisblockcompat",
+    "version": "1.0.0"
+  },
+  "jearchaeology-1.21.0-1.1.5.jar": {
+    "modId": "jearchaeology",
+    "version": "1.21.0-1.1.5"
+  },
+  "jeed-1.21-2.2.18.jar": {
+    "modId": "jeed",
+    "version": "1.21-2.2.18"
+  },
+  "jmi-neoforge-1.21.1-1.8.1.jar": {
+    "modId": "jmi",
+    "version": "1.21.1-1.8.1"
+  },
+  "journeymap-neoforge-1.21.1-6.0.0-beta.41.jar": {
+    "modId": "journeymap",
+    "version": "1.21.1-6.0.0-beta.41"
+  },
+  "justenoughbreeding-neoforge-1.21-1.21.1-1.5.0.jar": {
+    "modId": "justenoughbreeding",
+    "version": "1.5.0"
+  },
+  "konkrete_neoforge_1.9.9_MC_1.21.jar": {
+    "modId": "konkrete",
+    "version": "1.9.9"
+  },
+  "kotlinforforge-5.7.0-all.jar": {},
+  "kubejs-neoforge-2101.7.1-build.181.jar": {
+    "modId": "kubejs",
+    "version": "2101.7.1-build.181"
+  },
+  "LeavesBeGone-v21.1.0-1.21.1-NeoForge.jar": {
+    "modId": "leavesbegone",
+    "version": "21.1.0"
+  },
+  "lootbundles-1.21.0-1.1.0.jar": {
+    "modId": "lootbundles",
+    "version": "1.21.0-1.1.0"
+  },
+  "lootr-neoforge-1.21-1.10.35.90.jar": {
+    "modId": "lootr",
+    "version": "1.21-1.10.35.90"
+  },
+  "MEED-1.21.1-6.5.jar": {
+    "modId": "moderately",
+    "version": "5.0.0"
+  },
+  "melody_neoforge_1.0.10_MC_1.21.jar": {
+    "modId": "melody",
+    "version": "1.0.10"
+  },
+  "OverflowingBars-v21.1.1-1.21.1-NeoForge.jar": {
+    "modId": "overflowingbars",
+    "version": "21.1.1"
+  },
+  "Placebo-1.21.1-9.7.0.jar": {
+    "modId": "placebo",
+    "version": "9.7.0"
+  },
+  "polymorph-neoforge-1.0.7+1.21.1.jar": {
+    "modId": "polymorph",
+    "version": "1.0.7+1.21.1"
+  },
+  "PuzzlesLib-v21.1.33-1.21.1-NeoForge.jar": {
+    "modId": "puzzleslib",
+    "version": "21.1.33"
+  },
+  "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar": {
+    "modId": "reeses_sodium_options",
+    "version": "1.8.3+mc1.21.4"
+  },
+  "rhino-2101.2.7-build.74.jar": {
+    "modId": "rhino",
+    "version": "2101.2.7-build.74"
+  },
+  "smithingtemplateviewer-1.0.0.jar": {
+    "modId": "smithingtemplateviewer",
+    "version": "1.0.0"
+  },
+  "sodium-extra-neoforge-0.6.0+mc1.21.1.jar": {
+    "modId": "sodium_extra",
+    "version": "0.6.0+mc1.21.1"
+  },
+  "sodium-neoforge-0.6.9+mc1.21.1.jar": {
+    "modId": "sodium",
+    "version": "0.6.9+mc1.21.1"
+  },
+  "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar": {
+    "modId": "sodiumdynamiclights",
+    "version": "1.0.9"
+  },
+  "SodiumExtraInformation-neoforge-2.5.jar": {
+    "modId": "sodiumextrainformation",
+    "version": "2.3"
+  },
+  "sodiumextras-neoforge-1.0.7-1.21.1.jar": {
+    "modId": "sodiumextras",
+    "version": "1.0.6"
+  },
+  "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar": {
+    "modId": "sodiumoptionsapi",
+    "version": "1.0.10"
+  },
+  "sophisticatedbackpacks-1.21.1-3.24.1.1212.jar": {
+    "modId": "sophisticatedbackpacks",
+    "version": "3.24.1"
+  },
+  "sophisticatedcore-1.21.1-1.3.3.903.jar": {
+    "modId": "sophisticatedcore",
+    "version": "1.3.3"
+  },
+  "sophisticatedstorage-1.21.1-1.4.0.1079.jar": {
+    "modId": "sophisticatedstorage",
+    "version": "1.4.0"
+  },
+  "StylishEffects-v21.1.1-1.21.1-NeoForge.jar": {
+    "modId": "stylisheffects",
+    "version": "21.1.1"
+  },
+  "theoneprobe-1.21_neo-12.0.5.jar": {
+    "modId": "theoneprobe",
+    "version": "1.21_neo-12.0.5"
+  },
+  "ToastControl-1.21-9.0.0.jar": {
+    "modId": "toastcontrol",
+    "version": "9.0.0"
+  },
+  "tombstone-neoforge-1.21.1-9.2.8.jar": {
+    "modId": "tombstone",
+    "version": "9.2.8"
+  },
+  "trashslot-neoforge-1.21.1-21.1.4.jar": {
+    "modId": "trashslot",
+    "version": "21.1.4"
+  },
+  "txnilib-neoforge-1.0.23-1.21.1.jar": {
+    "modId": "txnilib",
+    "version": "1.0.23"
+  },
+  "waystones-neoforge-1.21.1-21.1.13.jar": {
+    "modId": "waystones",
+    "version": "21.1.13"
+  },
+  "yeetusexperimentus-neoforge-87.0.0.jar": {
+    "modId": "yeetusexperimentus",
+    "version": "87.0.0"
   }
 }

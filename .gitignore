@@ -6,10 +6,16 @@
 /logs/
 /crash-reports/
 /local/
+/data/
+/shaderpacks/
 /options.txt
 /usercache.json
-/realm_persistence.json
+/realms_persistence.json
 /.curseclient
+/user-prefs.json
+/command_history.txt
+/emi.json
+/usernamecache.json
 
 # Add the following to your gitignore:
 # Instance Sync
