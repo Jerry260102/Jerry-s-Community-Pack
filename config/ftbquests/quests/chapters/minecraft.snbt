@@ -1,0 +1,193 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "minecraft"
+	group: "2CFE089E1CD019C6"
+	icon: {
+		id: "minecraft:grass_block"
+	}
+	id: "5815D8EC18CF0775"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:crafting_table"
+			}
+			id: "6483CFEDCB7A9EFB"
+			tasks: [{
+				advancement: "minecraft:story/root"
+				criterion: ""
+				id: "3BDAE7875772F619"
+				type: "advancement"
+			}]
+			x: -5.5d
+			y: 1.0d
+		}
+		{
+			id: "5E7D5AD87D3BA3EF"
+			tasks: [{
+				advancement: "minecraft:story/mine_stone"
+				criterion: ""
+				id: "5EF2095E00AD9993"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			id: "789F39F6623FEDAF"
+			tasks: [{
+				advancement: "minecraft:story/upgrade_tools"
+				criterion: ""
+				id: "4C5E490612EA98E0"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			id: "2BC39075B1EA885D"
+			tasks: [{
+				advancement: "minecraft:story/smelt_iron"
+				criterion: ""
+				id: "20D41BC8A4C1BE99"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			id: "41338EFC6AD5A141"
+			tasks: [{
+				advancement: "minecraft:story/obtain_armor"
+				criterion: ""
+				id: "5D375623E2D29C95"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			id: "2E89C2015B27642E"
+			tasks: [{
+				advancement: "minecraft:story/iron_tools"
+				criterion: ""
+				id: "6D1C1580C540A9D3"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "35AA989A2BD3F0B8"
+			tasks: [{
+				advancement: "minecraft:story/lava_bucket"
+				criterion: ""
+				id: "7905A50E6DBE426E"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "03CAAE5F093C535B"
+			tasks: [{
+				advancement: "minecraft:story/mine_diamond"
+				criterion: ""
+				id: "48DB78103C121956"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			id: "4DB356A2863B448C"
+			tasks: [{
+				advancement: "minecraft:story/deflect_arrow"
+				criterion: ""
+				id: "2B6967F1EF424AC0"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			id: "400E5594E9E752CA"
+			tasks: [{
+				advancement: "minecraft:story/form_obsidian"
+				criterion: ""
+				id: "08314ABEA017BAE1"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			id: "0BBA2F1BE407C776"
+			tasks: [{
+				advancement: "minecraft:story/shiny_gear"
+				criterion: ""
+				id: "6C91785B085D2851"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			id: "16717FBE7A5B0E31"
+			tasks: [{
+				advancement: "minecraft:story/enchant_item"
+				criterion: ""
+				id: "14BB2A652955DA12"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			id: "4C4E178F43CF2E20"
+			tasks: [{
+				advancement: "minecraft:story/enter_the_nether"
+				criterion: ""
+				id: "4249B585531C657B"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			id: "036B48DD4DF04C58"
+			tasks: [{
+				advancement: "minecraft:story/follow_ender_eye"
+				criterion: ""
+				id: "5915434B50BF1C84"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			id: "7086A36A271F2AB4"
+			tasks: [{
+				advancement: "minecraft:story/cure_zombie_villager"
+				criterion: ""
+				id: "618F83B4FF5E3BD8"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			id: "1DCFAA8FA53A20FF"
+			tasks: [{
+				advancement: "minecraft:story/enter_the_end"
+				criterion: ""
+				id: "0DDAC2BCC878C217"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 2.5d
+		}
+	]
+}

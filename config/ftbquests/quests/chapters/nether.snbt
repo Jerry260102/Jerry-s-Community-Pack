@@ -1,0 +1,278 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "nether"
+	group: "2CFE089E1CD019C6"
+	icon: {
+		id: "minecraft:red_nether_bricks"
+	}
+	id: "4C1416050B2CD5B9"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0114ECCBB9D19AD5"
+			tasks: [{
+				advancement: "minecraft:nether/root"
+				criterion: ""
+				id: "1A6A02A3A610D543"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			id: "4D0336224CD1AADF"
+			tasks: [{
+				advancement: "minecraft:nether/return_to_sender"
+				criterion: ""
+				id: "466A755174422ED4"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			id: "7C6DD9EB240AEFE9"
+			tasks: [{
+				advancement: "minecraft:nether/find_bastion"
+				criterion: ""
+				id: "51005EFFFCDCD507"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			id: "538F9EFA6F7C7B1B"
+			tasks: [{
+				advancement: "minecraft:nether/obtain_ancient_debris"
+				criterion: ""
+				id: "67AD288E20C3E541"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+		{
+			id: "030F3CFA920EBDE8"
+			tasks: [{
+				advancement: "minecraft:nether/fast_travel"
+				criterion: ""
+				id: "37E890D132293655"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "61383DC41EDC30E3"
+			tasks: [{
+				advancement: "minecraft:nether/find_fortress"
+				criterion: ""
+				id: "23F4F3DBE8132AB5"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			id: "7350FD52A3FC9105"
+			tasks: [{
+				advancement: "minecraft:nether/obtain_crying_obsidian"
+				criterion: ""
+				id: "32A667CD2A6D3C8D"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			id: "7E454C664A58E7BA"
+			tasks: [{
+				advancement: "minecraft:nether/distract_piglin"
+				criterion: ""
+				id: "1B4FF78EB97B104D"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			id: "3E3C50B68C564C02"
+			tasks: [{
+				advancement: "minecraft:nether/ride_strider"
+				criterion: ""
+				id: "1557EA9B7F71E6D1"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			id: "7535C89411ED3D1B"
+			tasks: [{
+				advancement: "minecraft:nether/uneasy_alliance"
+				criterion: ""
+				id: "31237140D1687952"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			id: "5504225128ED1F0F"
+			tasks: [{
+				advancement: "minecraft:nether/loot_bastion"
+				criterion: ""
+				id: "766BBDA614D9FB75"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			id: "7CA11B0845DBCAC4"
+			tasks: [{
+				advancement: "minecraft:nether/use_lodestone"
+				criterion: ""
+				id: "68626FDCE5BA7513"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			id: "521CF4B972F9A5E9"
+			tasks: [{
+				advancement: "minecraft:nether/netherite_armor"
+				criterion: ""
+				id: "6584DE1E96E283EA"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			id: "5CA32B05B534F1B2"
+			tasks: [{
+				advancement: "minecraft:nether/get_wither_skull"
+				criterion: ""
+				id: "6873CC1082B6E59A"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			id: "1E147C517E272B76"
+			tasks: [{
+				advancement: "minecraft:nether/obtain_blaze_rod"
+				criterion: ""
+				id: "2E68CF8D6A7C771F"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			id: "2A32AA23FB310320"
+			tasks: [{
+				advancement: "minecraft:nether/charge_respawn_anchor"
+				criterion: ""
+				id: "723902C070AAFC24"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			id: "1C2D6A06FF58185E"
+			tasks: [{
+				advancement: "minecraft:nether/ride_strider_in_overworld_lava"
+				criterion: ""
+				id: "2E17FF3C09B05D91"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			id: "3F0BC19183D09755"
+			tasks: [{
+				advancement: "minecraft:nether/explore_nether"
+				criterion: ""
+				id: "5994CEB40BAE8A14"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 5.0d
+		}
+		{
+			id: "59A0261E9E86B8EF"
+			tasks: [{
+				advancement: "minecraft:nether/summon_wither"
+				criterion: ""
+				id: "0BD00CC2DBAE7438"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			id: "7AD7386CB72041A5"
+			tasks: [{
+				advancement: "minecraft:nether/brew_potion"
+				criterion: ""
+				id: "30653ECAA8A84268"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			id: "1B782E4E73ACC790"
+			tasks: [{
+				advancement: "minecraft:nether/create_beacon"
+				criterion: ""
+				id: "2EED686D84DF5984"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			id: "3C890B92F7C30891"
+			tasks: [{
+				advancement: "minecraft:nether/all_potions"
+				criterion: ""
+				id: "03F9261FEDC5933F"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			id: "50C2D03DEB626189"
+			tasks: [{
+				advancement: "minecraft:nether/create_full_beacon"
+				criterion: ""
+				id: "3AC236C8E1283CAE"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			id: "399FA52EB689FB23"
+			tasks: [{
+				advancement: "minecraft:nether/all_effects"
+				criterion: ""
+				id: "53BF6B6B464A6C23"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+	]
+}

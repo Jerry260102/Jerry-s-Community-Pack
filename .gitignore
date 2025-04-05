@@ -1,4 +1,8 @@
 # Minecraft modpack specific ignores
+/.probe/
+/.vscode/
+/.mixin.out/
+/fancymenu_data/
 /mods/
 /resourcepacks/
 /downloads/

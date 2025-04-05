@@ -8,3 +8,5 @@ cropsBlocks = [""]
 excludeBlocks = ["#minecraft:saplings", "minecraft:melon", "minecraft:pumpkin", "minecraft:carved_pumpkin", "minecraft:jack_o_lantern", "minecraft:chorus_plant", "minecraft:chorus_flower"]
 #List of dimensions where shaders should not be used.
 disabledDimensions = ["stellaris:moon", "stellaris:mars", "stellaris:venus", "stellaris:mercury"]
+#Enable optionally specifying different shader settings per dimension.
+enablePerDimensionShaders = true

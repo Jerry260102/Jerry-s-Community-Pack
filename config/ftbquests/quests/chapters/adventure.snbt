@@ -1,0 +1,498 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "adventure"
+	group: "2CFE089E1CD019C6"
+	icon: {
+		id: "minecraft:map"
+	}
+	id: "68279A6ED69DC168"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4832EA897CF52CCC"
+			tasks: [{
+				advancement: "minecraft:adventure/root"
+				criterion: ""
+				id: "3C2698A0F326521A"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			id: "2DE509E91DDE646B"
+			tasks: [{
+				advancement: "minecraft:adventure/crafters_crafting_crafters"
+				criterion: ""
+				id: "03359CE658A2183E"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -10.5d
+		}
+		{
+			id: "4B71AA6E91C60059"
+			tasks: [{
+				advancement: "minecraft:adventure/ol_betsy"
+				criterion: ""
+				id: "22446C8AD74F06F3"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -9.5d
+		}
+		{
+			id: "68270CACC75FA510"
+			tasks: [{
+				advancement: "minecraft:adventure/voluntary_exile"
+				criterion: ""
+				id: "4EF3E99CBC34BF74"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -7.5d
+		}
+		{
+			id: "15638A2CD45D657C"
+			tasks: [{
+				advancement: "minecraft:adventure/whos_the_pillager_now"
+				criterion: ""
+				id: "111CAE09DE6192DB"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -10.5d
+		}
+		{
+			id: "269C801AE1BA1F64"
+			tasks: [{
+				advancement: "minecraft:adventure/arbalistic"
+				criterion: ""
+				id: "6941B35F93E3C30C"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -9.5d
+		}
+		{
+			id: "04BAC1A418DC3A58"
+			tasks: [{
+				advancement: "minecraft:adventure/two_birds_one_arrow"
+				criterion: ""
+				id: "604AFB03E064F26C"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -8.5d
+		}
+		{
+			id: "552D2B51D7E7EF6B"
+			tasks: [{
+				advancement: "minecraft:adventure/hero_of_the_village"
+				criterion: ""
+				id: "5405DD6DCFEDFC01"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -7.5d
+		}
+		{
+			id: "584D0E0C82AB5F7A"
+			tasks: [{
+				advancement: "minecraft:adventure/trade"
+				criterion: ""
+				id: "74C67363DCB0B140"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -6.0d
+		}
+		{
+			id: "3D693E5809E39F7B"
+			tasks: [{
+				advancement: "minecraft:adventure/summon_iron_golem"
+				criterion: ""
+				id: "416A5F96ED14574A"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -6.5d
+		}
+		{
+			id: "122E39CBC625B45C"
+			tasks: [{
+				advancement: "minecraft:adventure/trade_at_world_height"
+				criterion: ""
+				id: "5F40C97042AD96BB"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			id: "000771305B75DA41"
+			tasks: [{
+				advancement: "minecraft:adventure/spyglass_at_parrot"
+				criterion: ""
+				id: "2F767291AC802D0B"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			id: "2F87EDD63643D494"
+			tasks: [{
+				advancement: "minecraft:adventure/spyglass_at_ghast"
+				criterion: ""
+				id: "416706E52E2E1371"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			id: "373801EFF0C4CCE6"
+			tasks: [{
+				advancement: "minecraft:adventure/spyglass_at_dragon"
+				criterion: ""
+				id: "2C55AC89CBEF5719"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			id: "6F826429576B272A"
+			tasks: [{
+				advancement: "minecraft:adventure/salvage_sherd"
+				criterion: ""
+				id: "517EE7B36D524339"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			id: "1C01A98991B21841"
+			tasks: [{
+				advancement: "minecraft:adventure/craft_decorated_pot_using_only_sherds"
+				criterion: ""
+				id: "42FA3244A0153A44"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			id: "42056DD369AA3CCD"
+			tasks: [{
+				advancement: "minecraft:adventure/read_power_of_chiseled_bookshelf"
+				criterion: ""
+				id: "3EF9794CE3AD2C04"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			id: "0CF5D9BCE2894A0D"
+			tasks: [{
+				advancement: "minecraft:adventure/kill_a_mob"
+				criterion: ""
+				id: "5500783FED631BF5"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			id: "63FCD7543AF521A9"
+			tasks: [{
+				advancement: "minecraft:adventure/kill_all_mobs"
+				criterion: ""
+				id: "7991D288FE552BFD"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			id: "61AA8AFF3EDDE3FE"
+			tasks: [{
+				advancement: "minecraft:adventure/shoot_arrow"
+				criterion: ""
+				id: "34597F22FD7970DD"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			id: "545191656D481FA4"
+			tasks: [{
+				advancement: "minecraft:adventure/bullseye"
+				criterion: ""
+				id: "4AF292BC4BD03199"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			id: "251D5F0C95A969D2"
+			tasks: [{
+				advancement: "minecraft:adventure/sniper_duel"
+				criterion: ""
+				id: "5B66343D011F6B4C"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			id: "5AA6DD929CC04778"
+			tasks: [{
+				advancement: "minecraft:adventure/totem_of_undying"
+				criterion: ""
+				id: "5108AA2082FA61F2"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			id: "7941B78D09880F29"
+			tasks: [{
+				advancement: "minecraft:adventure/kill_mob_near_sculk_catalyst"
+				criterion: ""
+				id: "6A77C5A2357E19F9"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			id: "4D3117AE5007F3EA"
+			tasks: [{
+				advancement: "minecraft:adventure/throw_trident"
+				criterion: ""
+				id: "17343AAC3EF83689"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			id: "739EEE202094599B"
+			tasks: [{
+				advancement: "minecraft:adventure/very_very_frightening"
+				criterion: ""
+				id: "2639045D04760F6B"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			id: "511E6E5E76D48E59"
+			tasks: [{
+				advancement: "minecraft:adventure/avoid_vibration"
+				criterion: ""
+				id: "519714DA2EB7F2A3"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			id: "7B293720DC230EAF"
+			tasks: [{
+				advancement: "minecraft:adventure/sleep_in_bed"
+				criterion: ""
+				id: "641FBC31B4675AA5"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			id: "661345096DCB2F37"
+			tasks: [{
+				advancement: "minecraft:adventure/adventuring_time"
+				criterion: ""
+				id: "28824624AA5F38D1"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 4.5d
+		}
+		{
+			id: "1E40D32B31E0ECA5"
+			tasks: [{
+				advancement: "minecraft:adventure/walk_on_powder_snow_with_leather_boots"
+				criterion: ""
+				id: "7E9B639563E5896E"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 3.5d
+		}
+		{
+			id: "7CE247B0141F99A8"
+			tasks: [{
+				advancement: "minecraft:adventure/play_jukebox_in_meadows"
+				criterion: ""
+				id: "69AA3C8638632870"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			id: "384726FBBCDDBD3C"
+			tasks: [{
+				advancement: "minecraft:adventure/fall_from_world_height"
+				criterion: ""
+				id: "70AC6FFE3D26A00D"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			id: "47CA95119930023C"
+			tasks: [{
+				advancement: "minecraft:adventure/lightning_rod_with_villager_no_fire"
+				criterion: ""
+				id: "1C9426108C8954D7"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 5.5d
+		}
+		{
+			id: "03BC093655930C3A"
+			tasks: [{
+				advancement: "minecraft:adventure/trim_with_any_armor_pattern"
+				criterion: ""
+				id: "0E659F3621EEFF53"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 6.5d
+		}
+		{
+			id: "4552E82CD662BA6E"
+			tasks: [{
+				advancement: "minecraft:adventure/brush_armadillo"
+				criterion: ""
+				id: "615077CF63E4F273"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 8.0d
+		}
+		{
+			id: "28B7769E91B6FABC"
+			tasks: [{
+				advancement: "minecraft:adventure/minecraft_trials_edition"
+				criterion: ""
+				id: "09AC044A22FEEFDB"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 9.5d
+		}
+		{
+			id: "2F2361044B17A91E"
+			tasks: [{
+				advancement: "minecraft:adventure/honey_block_slide"
+				criterion: ""
+				id: "38BEDA8FDBAE250F"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 10.5d
+		}
+		{
+			id: "312D4D5F324DEA4E"
+			tasks: [{
+				advancement: "minecraft:adventure/trim_with_all_exclusive_armor_patterns"
+				criterion: ""
+				id: "67E9714846CEBCEF"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 6.5d
+		}
+		{
+			id: "56A88678A6DEFE74"
+			tasks: [{
+				advancement: "minecraft:adventure/blowback"
+				criterion: ""
+				id: "04871519B97C3C89"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 7.5d
+		}
+		{
+			id: "161B0835EA7683A2"
+			tasks: [{
+				advancement: "minecraft:adventure/who_needs_rockets"
+				criterion: ""
+				id: "4D7D6E8939798350"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 8.5d
+		}
+		{
+			id: "229C10659E8E17D9"
+			tasks: [{
+				advancement: "minecraft:adventure/under_lock_and_key"
+				criterion: ""
+				id: "15B75C50234612BC"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 9.5d
+		}
+		{
+			id: "5275B84CA97756D9"
+			tasks: [{
+				advancement: "minecraft:adventure/revaulting"
+				criterion: ""
+				id: "016F28129EEFAD57"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 9.5d
+		}
+		{
+			id: "56EB89927CCE01EB"
+			tasks: [{
+				advancement: "minecraft:adventure/overoverkill"
+				criterion: ""
+				id: "3FE7CA8ECE369F4C"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 10.5d
+		}
+		{
+			id: "4AF9917F98546372"
+			tasks: [{
+				advancement: "minecraft:adventure/lighten_up"
+				criterion: ""
+				id: "6CA24050B9C301B7"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 11.5d
+		}
+	]
+}

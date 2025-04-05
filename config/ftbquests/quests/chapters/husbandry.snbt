@@ -1,0 +1,333 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "husbandry"
+	group: "2CFE089E1CD019C6"
+	icon: {
+		id: "minecraft:hay_block"
+	}
+	id: "7CE2FAA546F5E525"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2F6796800346A41B"
+			tasks: [{
+				advancement: "minecraft:husbandry/root"
+				criterion: ""
+				id: "3A82A78FCA380C29"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "04FC9F7EB7A08075"
+			tasks: [{
+				advancement: "minecraft:husbandry/safely_harvest_honey"
+				criterion: ""
+				id: "1074659F60436DE9"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			id: "3F87715FF1AC6FAC"
+			tasks: [{
+				advancement: "minecraft:husbandry/obtain_sniffer_egg"
+				criterion: ""
+				id: "76F37720E91AC4EB"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "720C89D0E6D73458"
+			tasks: [{
+				advancement: "minecraft:husbandry/breed_an_animal"
+				criterion: ""
+				id: "2218DEAE0EC4BCA5"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			id: "63B081257DADDEA3"
+			tasks: [{
+				advancement: "minecraft:husbandry/allay_deliver_item_to_player"
+				criterion: ""
+				id: "43F9AAB0386EB070"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 5.0d
+		}
+		{
+			id: "459FD5E5950F4759"
+			tasks: [{
+				advancement: "minecraft:husbandry/fishy_business"
+				criterion: ""
+				id: "21467BDDDD93E5E0"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			id: "2BD3AD7745B82E5F"
+			tasks: [{
+				advancement: "minecraft:husbandry/tame_an_animal"
+				criterion: ""
+				id: "0176322F58A51196"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			id: "45A044E9E1D51CC9"
+			tasks: [{
+				advancement: "minecraft:husbandry/ride_a_boat_with_a_goat"
+				criterion: ""
+				id: "1523145D5ED9B92A"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			id: "53FE625E96F05107"
+			tasks: [{
+				advancement: "minecraft:husbandry/make_a_sign_glow"
+				criterion: ""
+				id: "3919D6BAE709B012"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			id: "054D001E84F2C1CE"
+			tasks: [{
+				advancement: "minecraft:husbandry/plant_seed"
+				criterion: ""
+				id: "370A819A5AAC5E49"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			id: "587D0D7BD9DAE3C7"
+			tasks: [{
+				advancement: "minecraft:husbandry/silk_touch_nest"
+				criterion: ""
+				id: "7A1EDA16AA0E9E6C"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: -5.5d
+		}
+		{
+			id: "26A51E9996356206"
+			tasks: [{
+				advancement: "minecraft:husbandry/tadpole_in_a_bucket"
+				criterion: ""
+				id: "28E1D58AD6CDD250"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: -6.5d
+		}
+		{
+			id: "19C6BACD2C3898F9"
+			tasks: [{
+				advancement: "minecraft:husbandry/leash_all_frog_variants"
+				criterion: ""
+				id: "2CDFE57A346D68F1"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -6.5d
+		}
+		{
+			id: "7618954617D82B34"
+			tasks: [{
+				advancement: "minecraft:husbandry/froglights"
+				criterion: ""
+				id: "480A40DD0FE0C989"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			id: "1E87FBD442F4CE61"
+			tasks: [{
+				advancement: "minecraft:husbandry/bred_all_animals"
+				criterion: ""
+				id: "045B87AF4BE89062"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			id: "70032DB41B29572E"
+			tasks: [{
+				advancement: "minecraft:husbandry/complete_catalogue"
+				criterion: ""
+				id: "49A1999B36F580BA"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			id: "01138F30B04FD914"
+			tasks: [{
+				advancement: "minecraft:husbandry/remove_wolf_armor"
+				criterion: ""
+				id: "3CA84E949738DD04"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			id: "4FAE5CF8E3125B0A"
+			tasks: [{
+				advancement: "minecraft:husbandry/repair_wolf_armor"
+				criterion: ""
+				id: "656A31556A503DCE"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			id: "792BBB384EE8FC45"
+			tasks: [{
+				advancement: "minecraft:husbandry/whole_pack"
+				criterion: ""
+				id: "78C2CA326E0120FE"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			id: "4A038DFD239AC199"
+			tasks: [{
+				advancement: "minecraft:husbandry/feed_snifflet"
+				criterion: ""
+				id: "70C338309FDBC547"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			id: "711B3F7BFB2691EC"
+			tasks: [{
+				advancement: "minecraft:husbandry/plant_any_sniffer_seed"
+				criterion: ""
+				id: "49643357774ACE5E"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "0507D7EBB68E3A51"
+			tasks: [{
+				advancement: "minecraft:husbandry/obtain_netherite_hoe"
+				criterion: ""
+				id: "5251250977AC22B5"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			id: "0480D04D82BAE0AC"
+			tasks: [{
+				advancement: "minecraft:husbandry/balanced_diet"
+				criterion: ""
+				id: "19754308A6067A99"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			id: "73A79FBF4DC82F97"
+			tasks: [{
+				advancement: "minecraft:husbandry/wax_on"
+				criterion: ""
+				id: "1EE59BF76F556E4F"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			id: "0507D4357829EB9D"
+			tasks: [{
+				advancement: "minecraft:husbandry/allay_deliver_cake_to_note_block"
+				criterion: ""
+				id: "385C66B83CC551AC"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			id: "6CCEA54F9CB696E5"
+			tasks: [{
+				advancement: "minecraft:husbandry/tactical_fishing"
+				criterion: ""
+				id: "50D4CF5920EBF6D0"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			id: "03BAE57CC17E19C6"
+			tasks: [{
+				advancement: "minecraft:husbandry/axolotl_in_a_bucket"
+				criterion: ""
+				id: "5D35E1B98ACCFC30"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "7C45041EEB0F40B7"
+			tasks: [{
+				advancement: "minecraft:husbandry/kill_axolotl_target"
+				criterion: ""
+				id: "3EBD327C1DCDB919"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			id: "2F6095BE4D66DD74"
+			tasks: [{
+				advancement: "minecraft:husbandry/wax_off"
+				criterion: ""
+				id: "5216FA3178E2ED7D"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+	]
+}

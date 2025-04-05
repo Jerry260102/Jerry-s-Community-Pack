@@ -1,4 +1,8 @@
 {
+  "neoforge-21.1.137 (modloader)": {
+    "modId": "neoforge",
+    "version": "neoforge-21.1.137"
+  },
   "anvianslib-neoforge-1.21-1.1.jar": {
     "modId": "anvianslib",
     "version": "1.1"
@@ -11,9 +15,9 @@
     "modId": "architectury",
     "version": "13.0.8"
   },
-  "balm-neoforge-1.21.1-21.0.33.jar": {
+  "balm-neoforge-1.21.1-21.0.38.jar": {
     "modId": "balm",
-    "version": "21.0.33"
+    "version": "21.0.38"
   },
   "bcc-21.1.3+mc1.21.1.jar": {
     "modId": "bcc",
@@ -31,13 +35,13 @@
     "modId": "configured",
     "version": "2.6.0"
   },
-  "crash_assistant-neoforge-1.4.3.jar": {
+  "crash_assistant-neoforge-1.5.0.jar": {
     "modId": "crash_assistant",
-    "version": "1.4.3"
+    "version": "1.5.0"
   },
-  "curios-neoforge-9.3.1+1.21.1.jar": {
+  "curios-neoforge-9.4.0+1.21.1.jar": {
     "modId": "curios",
-    "version": "9.3.1+1.21.1"
+    "version": "9.4.0+1.21.1"
   },
   "darkmodeeverywhere-1.21-1.3.4.jar": {
     "modId": "darkmodeeverywhere",
@@ -51,9 +55,9 @@
     "modId": "drippyloadingscreen",
     "version": "3.0.11"
   },
-  "emi-1.1.20+1.21.1+neoforge.jar": {
+  "emi-1.1.21+1.21.1+neoforge.jar": {
     "modId": "emi",
-    "version": "1.1.20+1.21.1+neoforge"
+    "version": "1.1.21+1.21.1+neoforge"
   },
   "emi_enchanting-0.1.2+1.21+neoforge.jar": {
     "modId": "emi_enchanting",
@@ -83,6 +87,10 @@
     "modId": "ftbchunks",
     "version": "2101.1.8"
   },
+  "ftb-filter-system-neoforge-21.1.0.jar": {
+    "modId": "ftbfiltersystem",
+    "version": "21.1.0"
+  },
   "ftb-library-neoforge-2101.1.12.jar": {
     "modId": "ftblibrary",
     "version": "2101.1.12"
@@ -103,33 +111,33 @@
     "modId": "ftbxmodcompat",
     "version": "21.1.3"
   },
-  "fzzy_config-0.6.6+1.21+neoforge.jar": {
+  "fzzy_config-0.6.8+1.21+neoforge.jar": {
     "modId": "fzzy_config",
-    "version": "0.6.6+1.21+neoforge"
+    "version": "0.6.8+1.21+neoforge"
   },
   "iris-neoforge-1.8.8+mc1.21.1.jar": {
     "modId": "iris",
     "version": "1.8.8+mc1.21.1"
   },
-  "irisblockcompat-1.21.1-1.0.0.jar": {
+  "irisblockcompat-1.21.1-1.1.0.jar": {
     "modId": "irisblockcompat",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
-  "jearchaeology-1.21.0-1.1.5.jar": {
+  "jearchaeology-1.21.1-1.1.6.jar": {
     "modId": "jearchaeology",
-    "version": "1.21.0-1.1.5"
+    "version": "1.21.1-1.1.6"
   },
   "jeed-1.21-2.2.18.jar": {
     "modId": "jeed",
     "version": "1.21-2.2.18"
   },
-  "jmi-neoforge-1.21.1-1.8.1.jar": {
+  "jmi-neoforge-1.21.1-1.8.2.jar": {
     "modId": "jmi",
-    "version": "1.21.1-1.8.1"
+    "version": "1.21.1-1.8.2"
   },
-  "journeymap-neoforge-1.21.1-6.0.0-beta.41.jar": {
+  "journeymap-neoforge-1.21.1-6.0.0-beta.43.jar": {
     "modId": "journeymap",
-    "version": "1.21.1-6.0.0-beta.41"
+    "version": "1.21.1-6.0.0-beta.43"
   },
   "justenoughbreeding-neoforge-1.21-1.21.1-1.5.0.jar": {
     "modId": "justenoughbreeding",
@@ -152,11 +160,11 @@
     "modId": "lootbundles",
     "version": "1.21.0-1.1.0"
   },
-  "lootr-neoforge-1.21-1.10.35.90.jar": {
+  "lootr-neoforge-1.21-1.10.35.91.jar": {
     "modId": "lootr",
-    "version": "1.21-1.10.35.90"
+    "version": "1.21-1.10.35.91"
   },
-  "MEED-1.21.1-6.5.jar": {
+  "MEED-1.21.1-6.6.jar": {
     "modId": "moderately",
     "version": "5.0.0"
   },
@@ -168,13 +176,17 @@
     "modId": "overflowingbars",
     "version": "21.1.1"
   },
-  "Placebo-1.21.1-9.7.0.jar": {
+  "Placebo-1.21.1-9.7.1.jar": {
     "modId": "placebo",
-    "version": "9.7.0"
+    "version": "9.7.1"
   },
   "polymorph-neoforge-1.0.7+1.21.1.jar": {
     "modId": "polymorph",
     "version": "1.0.7+1.21.1"
+  },
+  "ProbeJS-7.5.1.jar": {
+    "modId": "probejs",
+    "version": "7.5.1"
   },
   "PuzzlesLib-v21.1.33-1.21.1-NeoForge.jar": {
     "modId": "puzzleslib",
@@ -220,13 +232,13 @@
     "modId": "sophisticatedbackpacks",
     "version": "3.24.1"
   },
-  "sophisticatedcore-1.21.1-1.3.3.903.jar": {
+  "sophisticatedcore-1.21.1-1.3.8.911.jar": {
     "modId": "sophisticatedcore",
-    "version": "1.3.3"
+    "version": "1.3.8"
   },
-  "sophisticatedstorage-1.21.1-1.4.0.1079.jar": {
+  "sophisticatedstorage-1.21.1-1.4.3.1084.jar": {
     "modId": "sophisticatedstorage",
-    "version": "1.4.0"
+    "version": "1.4.3"
   },
   "StylishEffects-v21.1.1-1.21.1-NeoForge.jar": {
     "modId": "stylisheffects",

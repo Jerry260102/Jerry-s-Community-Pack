@@ -19,7 +19,7 @@ METHOD_SHADER_DUMP = false
 
 ["Main Menu Button"]
 	#Enabled
-	SHOW = true
+	SHOW = false
 	#Pixels away from the left of the GUI in the x axis
 	# Default: 4
 	# Range: > 0

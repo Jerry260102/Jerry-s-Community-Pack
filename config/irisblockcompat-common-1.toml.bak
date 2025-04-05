@@ -1,0 +1,10 @@
+#List of blocks and/or block tags that will be included as waving grass-like.
+wavingBlocks = ["#minecraft:sword_efficient", "farmersdelight:sandy_shrub"]
+#List of blocks and/or block tags that will be included as leaves.
+leavesBlocks = ["#minecraft:leaves"]
+#List of blocks and/or block tags that will be included as crops.
+cropsBlocks = [""]
+#List of blocks and/or block tags that will be excluded from the other lists.
+excludeBlocks = ["#minecraft:saplings", "minecraft:melon", "minecraft:pumpkin", "minecraft:carved_pumpkin", "minecraft:jack_o_lantern", "minecraft:chorus_plant", "minecraft:chorus_flower"]
+#List of dimensions where shaders should not be used.
+disabledDimensions = ["stellaris:moon", "stellaris:mars", "stellaris:venus", "stellaris:mercury"]

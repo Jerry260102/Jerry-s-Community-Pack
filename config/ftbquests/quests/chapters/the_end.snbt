@@ -1,0 +1,113 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_end"
+	group: "2CFE089E1CD019C6"
+	icon: {
+		id: "minecraft:end_stone"
+	}
+	id: "6080D026EB1789ED"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7BE1C663E5FB1790"
+			tasks: [{
+				advancement: "minecraft:end/root"
+				criterion: ""
+				id: "181E09FB6CA9896A"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			id: "60302602E5304F37"
+			tasks: [{
+				advancement: "minecraft:end/kill_dragon"
+				criterion: ""
+				id: "7FAB66ED72B11D63"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "05BDB865E4F9895F"
+			tasks: [{
+				advancement: "minecraft:end/respawn_dragon"
+				criterion: ""
+				id: "4AF3348986A88B14"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			id: "1409079F970D5B61"
+			tasks: [{
+				advancement: "minecraft:end/dragon_breath"
+				criterion: ""
+				id: "13848D768B65B6D9"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			id: "34276F80CA7FE7B5"
+			tasks: [{
+				advancement: "minecraft:end/dragon_egg"
+				criterion: ""
+				id: "16F91CD487203A8D"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			id: "7774E96F0B99432C"
+			tasks: [{
+				advancement: "minecraft:end/enter_end_gateway"
+				criterion: ""
+				id: "72A9A46E3B3C4C04"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			id: "60686121F9FD61F8"
+			tasks: [{
+				advancement: "minecraft:end/find_end_city"
+				criterion: ""
+				id: "2DF46AE452C1885A"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			id: "7B94E252FE9299A6"
+			tasks: [{
+				advancement: "minecraft:end/elytra"
+				criterion: ""
+				id: "6BA5496A8EA7F040"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "23CF36BD8DC2A69F"
+			tasks: [{
+				advancement: "minecraft:end/levitate"
+				criterion: ""
+				id: "40C73982D75877E7"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+}
